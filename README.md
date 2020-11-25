@@ -1,14 +1,7 @@
-<p>
-    <img src="Modul4-Vue-Router/dokumentasi/Home-page.png"/>
-</p>
-<p>
-    <img src="Modul4-Vue-Router/dokumentasi/About.png"/>
-</p>
-<p>
-    <img src="Modul4-Vue-Router/dokumentasi/Contact.png"/>
-</p>
-
 # vue-routing
+<img src="/dokumentasi/Home-page.PNG" alt="dokumentasi modul 4"/>
+<img src="/dokumentasi/About.PNG" alt="dokumentasi modul 4"/>
+<img src="/dokumentasi/Contact.PNG" alt="dokumentasi modul 4"/>
 
 ## Project setup
 ```
