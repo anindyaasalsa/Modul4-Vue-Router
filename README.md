@@ -1,11 +1,11 @@
 <p>
-    <img src="Modul4-Vue-Router/Home-page.png"/>
+    <img src="Modul4-Vue-Router/dokumentasi/Home-page.png"/>
 </p>
 <p>
-    <img src="Modul4-Vue-Router/About.png"/>
+    <img src="Modul4-Vue-Router/dokumentasi/About.png"/>
 </p>
 <p>
-    <img src="Modul4-Vue-Router/Contact.png"/>
+    <img src="Modul4-Vue-Router/dokumentasi/Contact.png"/>
 </p>
 
 # vue-routing
